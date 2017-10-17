@@ -1,0 +1,21 @@
+{
+  "name": "adventurebox-client",
+  "version": "1.0.0",
+  "description": "A client application for Adventure Box (https://www.adventurebox.com)",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "adventure",
+    "box",
+    "games",
+    "client"
+  ],
+  "author": "Dimage Sapelkin",
+  "license": "MIT",
+  "dependencies": {
+    "@exponent/electron-cookies": "^2.0.0",
+    "electron": "^1.7.8"
+  }
+}

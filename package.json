@@ -16,6 +16,6 @@
   "license": "MIT",
   "dependencies": {
     "@exponent/electron-cookies": "^2.0.0",
-    "electron": "^1.7.8"
+    "electron": "^1.7.11"
   }
 }
